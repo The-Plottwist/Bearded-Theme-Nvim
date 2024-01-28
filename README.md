@@ -9,3 +9,6 @@ mv colors PATH_TO_CONFIG/.nvim/
 ```
 
 Themes will be accessible.
+
+# Condition
+Not a complete colorscheme & this causes errors with some plugins.
